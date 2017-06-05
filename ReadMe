@@ -8,7 +8,7 @@ on what people think about Donald Trump in AU and USA.
 There is no direct command to drive the program, all relevant commands 
 such as installing CouchDB and running environment are involved into both .sh files.
 
-Remark: please type one of five access tokens into environment variables before compiling.
+Remark: please type one of six access tokens into environment variables before compiling.
 
 qiaoycliverpool@gmail.com: localhost
 export TWITTER_CONSUMER_KEY=y3lwjc67Svwn8iEAmVgouiSp6
@@ -40,6 +40,11 @@ export TWITTER_CONSUMER_SECRET=K6uSgqsEl9WtDRCFGKs5uBhqwL1MupHrf2KezAwP4iZMojeVj
 export TWITTER_ACCESS_TOKEN=853914383415517185-w1SQIdihppvNEj5N6hwq7hmtlNRsBkp
 export TWITTER_ACCESS_SECRET=KSjCjNx7UjN7vRIcaxwwk4Wwpco7Vt1glBjU6kZvsFAAu
 
+15991385219@163.com:  couchdb
+export TWITTER_CONSUMER_KEY=iWcQyqeKQgTwWlNvnelfUx9z7
+export TWITTER_CONSUMER_SECRET=YU1K0QF5KtuXDjIePEsGPoxJRE8yZiTpxP8i1UMuoZBbKGrg9w
+export TWITTER_ACCESS_TOKEN=853914685753540609-ixtPU1raOEmVvWSAdwTnh0dSiXCb7BD
+export TWITTER_ACCESS_SECRET=ixjyzs0uha8B6AUeyPBItbKCzJHgwJnHWyjy7kLDc6VJS
 
 
 
