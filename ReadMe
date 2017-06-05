@@ -8,6 +8,38 @@ on what people think about Donald Trump in AU and USA.
 There is no direct command to drive the program, all relevant commands 
 such as installing CouchDB and running environment are involved into both .sh files.
 
+Remark: please type one of five access tokens into environment variables before compiling.
+
+qiaoycliverpool@gmail.com: localhost
+export TWITTER_CONSUMER_KEY=y3lwjc67Svwn8iEAmVgouiSp6
+export TWITTER_CONSUMER_SECRET=WCUPKLpRb8MomBcOzfMJCqx36bRvXRHu3J4RTGVEdBmxaUM4mF
+export TWITTER_ACCESS_TOKEN=711473475488092161-sxXSUasLvWixvciJwx1kpw70v8ungnb
+export TWITTER_ACCESS_SECRET=JLCfiPl09qGVGfG2uOE6yCmdHkdtgqHSDVwq5lNw2vUqV
+
+yuchenq@student.unimelb.edu.au:  collector-3
+export TWITTER_CONSUMER_KEY=27z6cKGDDBujVMPRsHFU62s7o
+export TWITTER_CONSUMER_SECRET=mqzvfkREicKVJxptXGiFhngw0mefMEAOqV3hyF1UrlSFnsleOm
+export TWITTER_ACCESS_TOKEN=841506888202125312-Y6FgLJyJ9MtO3uqDmOKiEY2p6jhcGXe
+export TWITTER_ACCESS_SECRET=DLpqCyi1aNLlBChF2om4nEHROFitvXcWMojzTxh603dan
+
+qiaoycProfession@gmail.com:  collector-2
+export TWITTER_CONSUMER_KEY=6QPs24kVfBif0uaCrTWSBCu5r
+export TWITTER_CONSUMER_SECRET=vPpHtNtbc8rw4btxJxnbnZdft6ixXpOdeH7ds8fC8aMmEFP1oi
+export TWITTER_ACCESS_TOKEN=841507708603789312-opzNnKVcAPgAz3WWZo7PCVMyUa5AM8a
+export TWITTER_ACCESS_SECRET=z1AyRs1w48iV5WxQnVJl7JVpLINIr6qXOfD9zFeZOUnC1
+
+qiaoycmelbourne@gmail.com:  collector-1
+export TWITTER_CONSUMER_KEY=Zi6sySBUp90x3rpJiMqteoAdC
+export TWITTER_CONSUMER_SECRET=lLpePKUmoTO5eYLRq4Ry91wR0QrwpdT9vYSgI9UvL6lvKaWdGI
+export TWITTER_ACCESS_TOKEN=841506331278303234-6Ft9b6nptoVJZXjP5dYN2RvZAK3d4q2
+export TWITTER_ACCESS_SECRET=O1JXKN2Baf4sWkVUkBLwiVUw7F0B8eMJNha8hjSoPiED3
+
+15596853289@163.com:  collector-0
+export TWITTER_CONSUMER_KEY=5VNKxHmDeljBAZJrfyyXqWGCs
+export TWITTER_CONSUMER_SECRET=K6uSgqsEl9WtDRCFGKs5uBhqwL1MupHrf2KezAwP4iZMojeVjf
+export TWITTER_ACCESS_TOKEN=853914383415517185-w1SQIdihppvNEj5N6hwq7hmtlNRsBkp
+export TWITTER_ACCESS_SECRET=KSjCjNx7UjN7vRIcaxwwk4Wwpco7Vt1glBjU6kZvsFAAu
+
 
 
 
